@@ -30,4 +30,4 @@ Run terraform apply to create the infrastructure.
 
 Final Result
 you can check the look inspect .terraform/terraform.tfstate, you will see that it contains the location of the state file now instead of the actual state file.
-..gg
+......
